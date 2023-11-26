@@ -6,4 +6,6 @@
 
 #### Aaron Ponti, Alex Matov, Mike Adams, Steph Gupton, Clare Waterman, Gaudy Danuser "Periodic Patterns of Actin Turnover in Lamellipodia and Lamellae of Migrating Epithelial Cells Analyzed by Quantitative Fluorescent Speckle Microscopy (2005)"
 
+##### https://researchgate.net/publication/7660807_Periodic_Patterns_of_Actin_Turnover_in_Lamellipodia_and_Lamellae_of_Migrating_Epithelial_Cells_Analyzed_by_Quantitative_Fluorescent_Speckle_Microscopy
+
 
